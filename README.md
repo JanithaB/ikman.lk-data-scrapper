@@ -16,7 +16,7 @@ This project is a web scraping tool for extracting vehicle details such as model
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ikman-scraper.git
+   git clone https://github.com/janithab/ikman-scraper.git
    cd ikman-scraper
 
 2. Install the required Python packages:
